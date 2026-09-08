@@ -1,0 +1,8 @@
+{
+  "name": "innovaboard-lenguaje-real",
+  "version": "1.0.0",
+  "description": "Sistema de usuario y progreso real para el área de Lenguaje de InnovaBoard",
+  "main": "server.js",
+  "scripts": {"start":"node server.js"},
+  "dependencies": {"express":"^4.21.2","sqlite3":"^5.1.7"}
+}
